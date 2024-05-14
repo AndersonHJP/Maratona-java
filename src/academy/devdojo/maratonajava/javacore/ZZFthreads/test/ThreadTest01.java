@@ -55,6 +55,6 @@ public class ThreadTest01 {
         System.out.println("############################### "+Thread.currentThread().getName());
 
 
-        System.out.println("testttttttttat");
+        System.out.println("testtttt");
     }
 }
